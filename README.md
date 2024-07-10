@@ -54,4 +54,4 @@ Keylogger ini dikembangkan untuk tujuan pendidikan dan hanya boleh digunakan ses
 # Kontribusi
 Kontribusi dan saran untuk proyek ini sangat dipersilakan. Silakan buka issue untuk diskusi atau buat pull request untuk perbaikan.
 
-Made with :heart: by Mamanwhide
+
