@@ -18,17 +18,22 @@ File log ini menyimpan keystroke yang tercatat oleh program keylogger (`keyLogge
 
 ## Cara Penggunaan
 
-```bash
 # Kompilasi keyLogger.c:
+```bash
 gcc keyLogger.c -o keyLoggerLinux
+```
 
 # Menggunakan Keylogger:
+```bash
 sudo ./keyLoggerLinux
+```
 Pastikan Anda memiliki izin yang cukup untuk membaca input keyboard (sudo mungkin diperlukan).
 
 # Melihat Log
+```bash
 cat keyLogger.log
 Log disimpan dalam file keyLogger.log di direktori saat ini.
+```
 
 # Catatan
 - Izin: Keylogger ini mungkin memerlukan izin yang ditinggikan (sudo) untuk mengakses input keyboard (/dev/input/event*).
