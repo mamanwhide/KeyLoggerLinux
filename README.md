@@ -2,6 +2,15 @@
 
 Proyek ini mencakup sebuah keylogger yang diimplementasikan menggunakan bahasa pemrograman C untuk mencatat keystroke pada sistem Linux.
 
+```bash
+██████╗ ███████╗  ██████╗      
+██╔══██╗██╔════╝ ██╔═══██╗    
+██████╔╝█████╗   ██╔═══██╝    
+██╔═══╝ ██╔══╝   ███████      
+██║     ███████╗ ███  ███     
+╚═╝     ╚══════╝ ╚═╝  ╚═╝     
+Made with ❤️ by Mamanwhide
+```
 ## File
 
 ### 1. keyLogger.c
